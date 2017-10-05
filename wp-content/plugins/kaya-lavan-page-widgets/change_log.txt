@@ -1,0 +1,157 @@
+version 2.0
+====================
+- Portfolio widget title margin bottom issue fixed.
+- Portfolio hover icons issue fixed.
+- Portfolio slider widget default image issue fixed.
+- Image gallery widget default image issue fixed.
+- Image box widget defualt image issue fixed.
+- Portfolio widget default image issue fixed.
+
+version 1.9.9
+====================
+- Owl carousel slider disturbing while page loading issue fixed.
+- Image gallery columns issue fixed.
+version 1.9.8
+====================
+- Fixed Wp color picker issue with "Page Builder by SiteOrigin" plugin.
+
+version 1.9.7
+====================
+- Image hover color issue fixed in image gallery widget.
+version 1.9.6
+====================
+- Added video to Image Gallery Widget.
+- Updated awesome Fonts to Icon Box Widget.
+- Added video to Icon Box Widget.
+- Added video to Portfolio Widget.
+- Added video to Blog Widget.
+- Added video to Drop Cap Widget.
+- Added video to Image With Overlay Text Widget.
+- Added video to Model Details Widget.
+- Added video to Video BG Promobox Widget.
+- Added video to Toggle and Tabs Widget.
+- Added Success message label to Contact Form Widget.
+
+version 1.9.5
+====================
+- LinK to Post and Link to Image hover issue fixed.
+- Contact Form reset issue fixed.
+- Added text fields to Contact Form Widget. 
+- Default images issue fixed.
+- Portfolio Widget Title margin bottom issue fixed.
+- Added disable share icons option to Blog Widget.
+
+version 1.9.4
+====================
+- Added "Image Overlay Text Widget".
+
+version 1.9.2
+====================
+- Added an option to increase title font size in Image Box.
+- Added Extra fields to Custom Title Widget.
+- Footer Dropcap title issue fixed.
+- Image Box Overlapping Issue Fixed.
+- Iconbox position alignnone padding issue fixed.
+- Icon Box Description Alignment Issue Fixed.
+
+version 1.9.1
+====================
+- Added "Model Details Widget".
+- Post Title BG Color, Post Title Color and Image Hover BG Opacity Color 
+  options are Added for Portfolio and Portfolio Slider widgets.
+
+version 1.9
+====================
+- Added "Lavan Icon Box Widget"
+- Added "Lavan Images Gallery Widget"
+- Improved widgets styling when placed in sidebar
+- Improved widget styling
+- Improved Button widget
+- Updated owl carousel js file
+- Added widget animation for all widgets
+- Removed color text filed and added color picker for all widgets
+- Panel-row-style padding top and padding bottom issue fixed.
+
+version 1.8.2
+====================
+	- Fixed Bug -  Custom link issue fixed for Draggable Slider .
+
+	-Added New Feature : Added Disable Lightbox icon and Disable Post Link icon in                                Portfolio slider widget. 
+
+version 1.8.1
+====================
+	- Major Translation issues enhancement.	
+
+
+version 1.8
+====================
+
+	- Added Light box and Post Link icons to Portfolio posts.
+
+	- Added Related Post Slider.
+
+version 1.7
+====================
+
+	- Fixed bug : Language Transalation issue fixed.
+
+
+version 1.6
+============================
+	
+	- Fixed bug: Portfolio filtering issue fixed.
+
+	- Fixed Bug : Lavan-Image Box issue Upload into media librayy issue fixed. 
+
+	- Fixed bug: Kaya slider issue when there is no categories exist in Kaya slider CPT.
+
+	- Fixed bug: Toggle Tabs issue when there is no category existin in Tab Items CPT.
+
+	- Fixed bug: Date format issue fixed.
+
+	- Fixed bug: Dropca hover transition issue fixed.
+
+	- Fixed bug: Lavan-List Items widget issue when there is no bullet image icon.
+
+
+
+version 1.5
+============================
+	
+	- Fixed bug: Post items display from Multiple categories in "Lavan-Portfolio (PB)", "Lavan-Portfolio Slider (PB)", "Lavan-Slider(PB)", "Lavan-Recent News(PB)" and "			 Lavan-Recent Blog Posts(PB)".
+
+	- Fixed bug: Dropcap hyper link shifted to Titles.
+
+	- Added New Feature: Removed Contact Page template and added "Lavan-Contact Form" Widget.
+
+	- Added New Feature: Removed "Blog Page" template and added "Lavan-Blog" Widget added.
+
+	- Added New Feature: "Lavan-Button" alignments Left / Right / Center.
+
+	- Added New Feature: Full width option for "Lavan-Portfolio Slider".
+
+
+version 1.4
+============================
+
+	- Fixed Bug: Portfolio fluid style issue fixed.
+
+
+version 1.3
+============================
+
+	- Fixed Bug: Image upload option issue in widget area fixed.
+
+version 1.2
+============================
+
+	- Fixed Bug: Video promobox issue fixed.
+
+version 1.1
+============================
+	
+	- Fixed Bug: Recent Blog Post oder issue
+
+	- Fixed Bug: Recent News Order issuee
+	
+

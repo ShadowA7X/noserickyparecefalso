@@ -1,0 +1,8 @@
+/* Rwmb Meta box Fields Settings */
+.rwmb-field ul.rwmb-input-list li {
+    display: inline-block;
+    margin-right: 15px;
+}
+ul.rwmb-input-list.collapse{
+  margin-bottom: 0px;
+}

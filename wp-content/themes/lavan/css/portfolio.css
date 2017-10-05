@@ -1,0 +1,186 @@
+.meta-nav-prev {
+   background-color: #26CCBE;
+	float:right;
+	background-image: url("../images/portfolio_next.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	float: right;
+	height: 12px;
+	width:12px;
+	padding: 10px;
+   border-radius: 3px 3px 3px 3px;
+}
+.meta-nav-next{
+   background-color: #26CCBE;
+    background-image: url("../images/portfolio_prev.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    border-radius: 3px 3px 3px 3px;
+    float: right;
+    height: 12px;
+    padding:10px;
+    right: 0;
+    width: 12px;
+	margin-right: 5px;
+ }
+.meta-nav-next:hover, .meta-nav-prev:hover{
+	opacity:.7
+}
+.nav_prev_item{
+
+}
+.nav_next_item{
+	float:left;
+}
+.single_img ul, ul.porfolio_items {
+	list-style:none!important;
+	margin-left:0px;
+	    z-index: 0;
+	    margin-bottom: 0;
+}
+.single_img {
+    margin-bottom: 10px;
+}
+#singlepage_nav{
+ display: block;
+    float: right;
+    overflow: hidden;
+    width: 70px;
+    z-index: 99;
+}
+
+.single_img .isotope_gallery  li{
+	background-color:#FB4400 ;
+	margin-right:0.1%;
+	margin-bottom:0.1%;
+	float:left;
+	display:inline-block;
+}
+.listimg li{
+	margin-bottom:1px;
+}
+.single_img img{
+	display:block;
+}
+
+.isotope_gallery li{
+	width:32.8%;
+}
+.single_img  ul.isotope_gallery{
+	opacity:0;
+}
+.portfolio_fullwidth{
+	margin-top:25px;
+
+}
+.bx-wrapper .slider li{
+	min-height:150px;
+}
+/* Related Post */
+.relatedpost_title{
+    display: table;
+    margin-bottom: 20px;
+}
+#relatedposts ul{
+	margin-top:25px;
+}
+#relatedposts ul li{
+    display: block!important;
+} 
+#relatedposts h3:after {
+     background-color: rgba(127, 127, 127, 0.3);
+    content: "";
+    display: block;
+    height: 1px;
+    margin-top: 13px;
+    position: relative;
+}
+#relatedposts h3{
+    position: relative;
+    margin-bottom: 0;
+}
+.custom_hr {
+    background-color: rgba(127, 127, 127, 0.3);
+    display: block;
+    height: 1px;
+    width: 100%;
+}
+/* portfolio page template */
+.portfolio-container
+{
+     
+}
+.portfolio-container h4 {
+      bottom: 0;
+    margin: 0;
+    padding: 15px 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    color:#fff!important;
+}
+
+.link_to_image{
+    background-image: url(../images/image.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    position:absolute;
+    height: 40px;
+    border-radius: 20px;
+    position: absolute;
+    top:50%;
+    width:40px;
+    z-index: 100;
+    margin-left:-20px;
+    margin-top:-20px;
+   display:none;
+   left: 35%;
+}
+.link_to_post{
+   background-image: url(../images/link_post.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    position:absolute;
+    height: 40px;
+    border-radius: 20px;
+    position: absolute;
+    top:50%;
+    width:40px;
+    z-index: 100;
+    right:35%;
+    margin-right:-20px;
+    margin-top:-20px;
+        display:none;
+}
+#related_slider .portfolio-container{
+    margin: 0 1px!important;
+}
+.portfolio_img_container img{
+    display: block;
+}
+.portfolio_item_text h4{
+   background-color: #DB0007;
+}
+/* Model Details */
+#mid_container_wrapper .pf_model_info_wrapper ul{
+  margin: 0;
+  list-style: none;
+}
+#mid_container_wrapper  .pf_model_info_wrapper ul li{
+ margin: 0;
+  padding: 6px 0px;
+  margin-bottom: 1px;
+  background-color: #9c9c9c;
+}
+
+#mid_container_wrapper .pf_model_info_wrapper ul li:first-child{
+  border-left: 0;
+  padding-left: 0;
+}
+#mid_container_wrapper .pf_model_info_wrapper ul li:last-child{
+  border-right: 0;
+  padding-right: 0;
+}
+.portfolio_images_wrapper ul{
+  margin:0px!important;
+}

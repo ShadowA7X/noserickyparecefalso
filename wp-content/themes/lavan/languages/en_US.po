@@ -1,0 +1,2869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lavan\n"
+"POT-Creation-Date: 2014-09-26 18:30+0530\n"
+"PO-Revision-Date: 2014-09-26 18:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lavan/404.php:12
+msgid " <h3>Archives by Subject:</h3>"
+msgstr ""
+
+#: ../lavan/404.php:18
+msgid " <h3>Archives by Month::</h3>"
+msgstr ""
+
+#: ../lavan/BFI_Thumb.php:117
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: ../lavan/BFI_Thumb.php:232
+msgid "Image rotate failed."
+msgstr ""
+
+#: ../lavan/BFI_Thumb.php:254
+msgid "Image opacity change failed."
+msgstr ""
+
+#: ../lavan/BFI_Thumb.php:332
+msgid "Image color change failed."
+msgstr ""
+
+#: ../lavan/BFI_Thumb.php:348
+msgid "Image grayscale failed."
+msgstr ""
+
+#: ../lavan/BFI_Thumb.php:364
+msgid "Image negate failed."
+msgstr ""
+
+#: ../lavan/comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../lavan/comments.php:34 ../lavan/comments.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../lavan/comments.php:37 ../lavan/comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../lavan/comments.php:74 ../twentyfourteen/comments.php:59
+#: ../twentythirteen/comments.php:52 ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../lavan/comments.php:83
+msgid "Name"
+msgstr ""
+
+#: ../lavan/comments.php:85
+msgid "Email"
+msgstr ""
+
+#: ../lavan/comments.php:86
+msgid "Website"
+msgstr ""
+
+#: ../lavan/functions.php:49
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../lavan/functions.php:50
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../lavan/functions.php:101 ../lavan/lib/plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lavan/functions.php:102 ../lavan/lib/plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lavan/functions.php:103 ../lavan/lib/plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lavan/functions.php:104
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lavan/functions.php:116 ../lavan/lib/plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lavan/functions.php:117 ../lavan/lib/plugin-activation.php:171
+#: ../lavan/lib/plugin-activation.php:1838
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lavan/functions.php:118
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lavan/functions.php:231 ../lavan/header.php:46
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../lavan/header.php:36
+msgid "Call Us: +1 800 559 6580"
+msgstr ""
+
+#: ../lavan/header.php:48 ../lavan/woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr ""
+
+#: ../lavan/header.php:52
+msgid "My Account"
+msgstr ""
+
+#: ../lavan/header.php:52
+msgid "Logout"
+msgstr ""
+
+#: ../lavan/header.php:55
+msgid "Login / Register"
+msgstr ""
+
+#: ../lavan/index.php:25 ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../lavan/index.php:26 ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../lavan/index.php:29 ../lavan/search.php:25
+#: ../twentyfourteen/content-none.php:12 ../twentythirteen/content-none.php:12
+#: ../twentytwelve/content-none.php:13 ../twentytwelve/index.php:49
+#: ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../lavan/index.php:30 ../twentytwelve/content-none.php:17
+#: ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:142 ../twentyfourteen/tag.php:22
+#: ../twentythirteen/tag.php:21 ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:147 ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:152 ../twentyfourteen/category.php:20
+#: ../twentythirteen/category.php:19 ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:161 ../lavan/search.php:9
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#: ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:163
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:167 ../twentyfourteen/archive.php:31
+#: ../twentythirteen/archive.php:29 ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:172 ../twentyfourteen/archive.php:34
+#: ../twentythirteen/archive.php:31 ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:175 ../twentyfourteen/archive.php:37
+#: ../twentythirteen/archive.php:33 ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:183
+msgid "Shop"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:190
+msgid "Blog Archives"
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:240
+msgid " Footer Column "
+msgstr ""
+
+#: ../lavan/lib/functions/common.php:244
+msgid ""
+"Wesce sit amet porttitor leo. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Quisque interdum, nulla sit amet "
+"varius dignissim Vestibulum pretium risus"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:13
+msgid "Add New Post "
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:14
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:7
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:8
+msgid "Add New Post"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:15
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:9
+msgid "Edit Post"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:16
+msgid "New Post Item "
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:17
+msgid "View Post Item "
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:18
+msgid "Search "
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:19
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:13
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:13
+msgid "Nothing found"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:20
+msgid "not_found_in_trash"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:54
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:69
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:70
+msgid "Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_portfolio.php:55
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:70
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:71
+msgid "Post Image"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:5
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:6
+#: ../lavan/lib/meta-boxes.php:134 ../lavan/lib/meta-boxes.php:197
+msgid "Kaya Slider"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:10
+msgid "New Slider Post Item"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:11
+msgid "View slider Item"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:12
+msgid "Search Slider Items"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:14
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:14
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:48
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:49
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:58
+msgid "Slider Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:50
+msgid "Search Slider Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:51
+msgid "All Slider Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:52
+msgid "Parent Slider Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:53
+msgid "Parent Slider Category:"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:54
+msgid "Edit Slider Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:55
+msgid "Update Slider Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:56
+msgid "Add New Slider Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:57
+msgid "New Slider Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/kaya_slider.php:116
+msgid "Add Slide Image - Size 1920x1080 (px) "
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:5
+msgid "Tab Items"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:6
+msgid "Toggle Tabs"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:7
+msgid "Add New Tab Post"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:8
+msgid "Add New Tabs "
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:9
+msgid "Edit Tabs"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:10
+msgid "New Tabs"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:11
+msgid "View Tabs Item"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:12
+msgid "Search Tabs"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:49
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:59
+msgid "Tabs Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:50
+msgid "Toggle Tabs / Accordion Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:51
+msgid "Search Tabs Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:52
+msgid "All Tabs Categories"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:53
+msgid "Parent Tabs Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:54
+msgid "Parent Tabs Category:"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:55
+msgid "Edit Tabs Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:56
+msgid "Update Tabs Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:57
+msgid "Add New Tabs Category"
+msgstr ""
+
+#: ../lavan/lib/functions/custom_posts/toggletabs_accordion.php:58
+msgid "New Tabs Category"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:19
+#, php-format
+msgid "%s <span class=\"says\"></span>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../lavan/lib/functions/kaya_comments.php:23
+#: ../lavan/lib/functions/kaya_comments.php:124
+#: ../twentytwelve/functions.php:334
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:23
+#: ../lavan/lib/functions/kaya_comments.php:54
+#: ../lavan/lib/functions/kaya_comments.php:124
+#: ../lavan/lib/functions/kaya_comments.php:158
+#: ../twentytwelve/functions.php:313
+msgid "(Edit)"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:28
+#: ../lavan/lib/functions/kaya_comments.php:110
+#: ../twentytwelve/functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:38
+msgid "Reply <span>&rarr;</span>"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:54
+#: ../lavan/lib/functions/kaya_comments.php:158
+#: ../twentytwelve/functions.php:313
+msgid "Pingback:"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:75
+msgid "Posted In"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:76 ../lavan/loop.php:23
+msgid "By "
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:77 ../lavan/loop.php:25
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:77
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:77
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:78 ../lavan/loop-page.php:101
+#: ../lavan/loop-portfolio.php:103 ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:51 ../twentytwelve/functions.php:345
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:104
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:180
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:184
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lavan/lib/functions/kaya_comments.php:188
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../lavan/lib/includes/footer_general.php:26
+msgid "Copyright &copy; Kayapati. All rights reserved."
+msgstr ""
+
+#: ../lavan/lib/includes/kaya-sidebar-generator.php:175
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../lavan/lib/includes/kaya-sidebar-generator.php:225
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../lavan/lib/includes/kaya-sidebar-generator.php:232
+msgid "+ Add New Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/kaya-sidebar-generator.php:282
+msgid ""
+"Please select the sidebar you would like to display on this page. "
+"<strong>Note:</strong> You must first create the sidebar under Appearance > "
+"Sidebars."
+msgstr ""
+
+#: ../lavan/lib/includes/kaya-sidebar-generator.php:292
+msgid "WP Default Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/kaya-sidebar-generator.php:307
+msgid "Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/siteorigen_panel_row_styles.php:5
+msgid "Conatiner row Style-1"
+msgstr ""
+
+#: ../lavan/lib/includes/siteorigen_panel_row_styles.php:11
+msgid "Conatiner row Style-2"
+msgstr ""
+
+#: ../lavan/lib/includes/siteorigen_panel_row_styles.php:16
+msgid "Conatiner row Style-3"
+msgstr ""
+
+#: ../lavan/lib/includes/siteorigen_panel_row_styles.php:21
+msgid "Conatiner row Style-4"
+msgstr ""
+
+#: ../lavan/lib/includes/siteorigen_panel_row_styles.php:26
+msgid "Conatiner row Style-5"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:87
+#: ../lavan/lib/includes/theme_customization.php:91
+#: ../lavan/lib/includes/theme_customization.php:94
+#: ../lavan/lib/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:96
+msgid "Add More"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:109
+msgid "Theme Layout Options"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:120
+msgid "layout Mode"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:125
+msgid "Fluid"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:126
+msgid "Boxed"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:136
+msgid "Boxed Layout Margin Top (px)"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:148
+msgid "Boxed Layout Margin Bottom (px)"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:161
+msgid "Disable Boxed Layout Shadow "
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:172
+msgid "Responsive Mode"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:177
+msgid "On"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:178
+msgid "Off"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:191
+msgid "Header Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:206
+msgid "Header BG Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:217
+#: ../lavan/lib/includes/theme_customization.php:1231
+#: ../lavan/lib/includes/theme_customization.php:1302
+#: ../lavan/lib/includes/theme_customization.php:1372
+#: ../lavan/lib/includes/theme_customization.php:1444
+#: ../lavan/lib/includes/theme_customization.php:1514
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:223
+#: ../lavan/lib/includes/theme_customization.php:1237
+#: ../lavan/lib/includes/theme_customization.php:1308
+#: ../lavan/lib/includes/theme_customization.php:1378
+#: ../lavan/lib/includes/theme_customization.php:1450
+#: ../lavan/lib/includes/theme_customization.php:1520
+#: ../lavan/lib/includes/theme_customization.php:1674
+msgid "No Repeat"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:224
+#: ../lavan/lib/includes/theme_customization.php:1238
+#: ../lavan/lib/includes/theme_customization.php:1309
+#: ../lavan/lib/includes/theme_customization.php:1379
+#: ../lavan/lib/includes/theme_customization.php:1451
+#: ../lavan/lib/includes/theme_customization.php:1521
+#: ../lavan/lib/includes/theme_customization.php:1675
+msgid "Repeat"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:230
+msgid "Header Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:237
+msgid "Header Left / Logo Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:251
+msgid "Upload Logo Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:264
+msgid "Logo Margin Top (px)"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:273
+msgid "Header Right Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:283
+msgid "Contact Information"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:293
+msgid ""
+"Add header right section content Ex:\n"
+"\t\t\t\t\t\t8901 Marmora Road,<br/>\n"
+"\t\t\t\t\t\tGlasgow, D04 89GR.\n"
+"\t\t\t\t\t\t<h3 style=\"text-align:right; \">Call Us: +1 800 559 6580</h3>"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:307
+msgid "Social Icons"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:316
+msgid ""
+"Font Awesome Icons Ex:<a href=\"#\"><i class=\"fa fa-facebook\"> </i></a>, "
+"Image Social Icons Ex:<a href=\"#\">\n"
+"<img src=\"http://kayapati.com/demos/lavan/wp-content/themes/lavan/images/"
+"social_icons/facebook.png\">\n"
+"</a>"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:327
+msgid "Header  Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:334
+msgid "Header Links Color "
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:340
+msgid "Header Links Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:350
+msgid "Upload Search Box Icon"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:390
+msgid "Menu Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:401
+msgid "Menu Links Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:407
+msgid "Menu Links Hover BG color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:415
+msgid "Menu Links Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:421
+msgid "Menubar Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:427
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:433
+msgid "Menu Active BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:440
+msgid "Menu Active BG Links Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:448
+msgid "Child Menu BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:454
+msgid "Child Menu Bottom Border Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:463
+msgid "Child Menu Links Hover BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:469
+msgid "Child Menu Links Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:475
+msgid "Child Menu Links Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:518
+msgid "Accent Colors"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:529
+msgid "Accent BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:536
+msgid "Text Color for Accent BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:573
+msgid "Page Color Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:584
+msgid "Page Title bar Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:592
+msgid "Page Title bar Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:598
+msgid "Page Middle Content Color Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:606
+#: ../lavan/lib/includes/theme_customization.php:1246
+#: ../lavan/lib/includes/theme_customization.php:1327
+#: ../lavan/lib/includes/theme_customization.php:1397
+#: ../lavan/lib/includes/theme_customization.php:1469
+msgid "Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:613
+#: ../lavan/lib/includes/theme_customization.php:899
+msgid "Title Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:619
+#: ../lavan/lib/includes/theme_customization.php:1700
+msgid "Content Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:625
+msgid "Link Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:631
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:637
+msgid "Page Sidebar Color Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:643
+msgid "Sidebar Title Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:650
+msgid "Sidebar Content Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:657
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:664
+msgid "Sidebar Link Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:703
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:712
+msgid "Portfolio Slug Name"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:721
+msgid ""
+"Note: Please make sure that the permalinks to be updated by navigating to "
+"\"Settings > Permalinks\" select post and save changes to avoid 404 error "
+"page."
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:733
+msgid "Related Post Title"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:742
+msgid "Related Post Thumbnail Height (px)"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:750
+msgid "Portfolio Category Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:758
+msgid ""
+"Note: Use this section when you use \"Portfolio Categories\" in menu bar"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:768
+msgid "Category Page Layout"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:772
+#: ../lavan/lib/includes/theme_customization.php:935
+#: ../lavan/lib/includes/theme_customization.php:970
+#: ../lavan/lib/includes/theme_customization.php:984
+#: ../lavan/lib/includes/theme_customization.php:998
+msgid "No Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:773
+#: ../lavan/lib/includes/theme_customization.php:936
+#: ../lavan/lib/includes/theme_customization.php:971
+#: ../lavan/lib/includes/theme_customization.php:985
+#: ../lavan/lib/includes/theme_customization.php:999
+msgid "Right"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:774
+#: ../lavan/lib/includes/theme_customization.php:937
+#: ../lavan/lib/includes/theme_customization.php:972
+#: ../lavan/lib/includes/theme_customization.php:986
+#: ../lavan/lib/includes/theme_customization.php:1000
+msgid "Left"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:788
+msgid "Select Columns"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:791
+msgid "4 Columns"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:792
+msgid "3 Columns"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:793
+msgid "2 Columns"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:807
+msgid "Order"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:810
+msgid "Descending Order"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:811
+#: ../lavan/lib/meta-boxes.php:177 ../lavan/lib/meta-boxes.php:240
+#: ../lavan/lib/meta-boxes.php:353
+msgid "Ascending Order"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:824
+msgid "Order By"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:827
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:828
+msgid "Menu Order"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:829
+msgid "Title"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:830
+msgid "Random"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:839
+msgid "Disable Lightbox Icon"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:848
+msgid "\tDisable Post Link Icon "
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:858
+msgid "Thumbnail Height (px)"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:866
+msgid "Posts Title Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:875
+msgid "Disable Posts Title"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:887
+msgid "Title Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:912
+msgid "Blog Page Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:922
+msgid "Readmore Button Text"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:931
+msgid "Blog Single Page Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:950
+msgid "Woocommerce Page Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:957
+msgid "Disable Menu Bar Cart Icon"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:966
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:980
+msgid "Product Categories / Tags  Page Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:994
+msgid "Shop Single Page Sidebar"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1008
+msgid "Primary Buttons Color Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1017
+msgid ""
+"Note: Color applies for Add to cart, Update Cart , mini cart items and  "
+"Apply Coupon buttons"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1028
+msgid "Primary  Buttons BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1034
+msgid "Primary  Buttons Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1042
+msgid "Primary  Buttons BG Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1049
+msgid "Primary  Buttons Text Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1055
+msgid "Secondary Buttons Color Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1064
+msgid ""
+"Note: Color applies for Tabs active color, tab hover color, quantity(plus, "
+"minus), view Cart, proceed to checkout and place order buttons"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1075
+msgid "Secondary Buttons BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1081
+msgid "Secondary Buttons Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1089
+msgid "Secondary Buttons BG Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1096
+msgid "Secondary Buttons Text Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1104
+msgid "Elements color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1110
+msgid ""
+"Note: color applied for price, onsale tag, star-rating, .quantity .minus / "
+"plus hover and etc..."
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1119
+msgid "Alert Boxes Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1130
+msgid "Success Alert Box BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1137
+msgid "Success Alert Box Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1145
+msgid "Notification Alert Box BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1152
+msgid "Notification Alert Box Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1160
+msgid "Warning Alert Box BG Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1167
+msgid "Warning Alert Box Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1202
+msgid "Container Row Visual Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1219
+#: ../lavan/lib/includes/theme_customization.php:1291
+#: ../lavan/lib/includes/theme_customization.php:1361
+#: ../lavan/lib/includes/theme_customization.php:1433
+msgid "Background Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1253
+#: ../lavan/lib/includes/theme_customization.php:1317
+#: ../lavan/lib/includes/theme_customization.php:1387
+#: ../lavan/lib/includes/theme_customization.php:1459
+#: ../lavan/lib/includes/theme_customization.php:1529
+msgid "Background Image Opacity"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1265
+#: ../lavan/lib/includes/theme_customization.php:1335
+#: ../lavan/lib/includes/theme_customization.php:1406
+#: ../lavan/lib/includes/theme_customization.php:1477
+msgid "Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1273
+#: ../lavan/lib/includes/theme_customization.php:1343
+#: ../lavan/lib/includes/theme_customization.php:1413
+#: ../lavan/lib/includes/theme_customization.php:1484
+#: ../lavan/lib/includes/theme_customization.php:1555
+msgid "Top & Bottom Border Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1279
+msgid "Fulid Row Container Style - 2"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1349
+msgid "Fulid Row Container Style - 3"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1420
+msgid "Fulid Row Container Style - 4"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1490
+msgid "Fulid Row Container Style - 5"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1503
+msgid "Container Background Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1540
+msgid "Container Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1548
+msgid "Container Text Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1592
+msgid "Footer Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1602
+msgid "Main Footer Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1610
+msgid "Disable Main Footer"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1626
+msgid "Display Columns"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1631
+#: ../lavan/lib/includes/theme_customization.php:1633
+#: ../lavan/lib/includes/theme_customization.php:1635
+#: ../lavan/lib/includes/theme_customization.php:1637
+#: ../lavan/lib/includes/theme_customization.php:1639
+#: ../lavan/lib/includes/theme_customization.php:1641
+#: ../lavan/lib/includes/theme_customization.php:1643
+#: ../lavan/lib/includes/theme_customization.php:1645
+msgid "Col-1"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1632
+#: ../lavan/lib/includes/theme_customization.php:1634
+#: ../lavan/lib/includes/theme_customization.php:1636
+#: ../lavan/lib/includes/theme_customization.php:1638
+#: ../lavan/lib/includes/theme_customization.php:1640
+#: ../lavan/lib/includes/theme_customization.php:1642
+#: ../lavan/lib/includes/theme_customization.php:1644
+msgid "Col-2"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1656
+msgid "Upload Footer Background Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1659
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1668
+msgid "Footer Background Repeat"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1682
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1688
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1694
+msgid "Titles Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1706
+msgid "Hyper Link Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1712
+msgid "Hyper Link Hover Color"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1718
+msgid "Most Footer Bottom Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1725
+msgid "Disable Most Footer Bottom"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1735
+msgid "Left Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1744
+msgid "Right Section"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1787
+msgid "Typography"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1790
+msgid "Select Google Fonts"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1805
+msgid "Enter Google font for Body"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1821
+msgid "Enter Google font for Headings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1837
+msgid "Enter Google font for Top Menu"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1892
+msgid "Font size for heading - H1"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1910
+msgid "Font size for heading - H2"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1927
+msgid "Font size for heading - H3"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1944
+msgid "Font size for heading - H4"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1961
+msgid "Font size for heading - H5"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1978
+msgid "Font size for heading - H6"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:1993
+msgid "Global Settings"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:2005
+msgid "Upload Favicon Image"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:2014
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:2024
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lavan/lib/includes/theme_customization.php:2034
+msgid "Custom JQUERY"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/better-include.php:14
+#: ../lavan/lib/meta-box/demo/include-by-ID-or-page-template.php:6
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/better-include.php:17
+#: ../lavan/lib/meta-box/demo/include-by-ID-or-page-template.php:12
+msgid "Your images"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:21
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:24
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/image-select.php:10
+#: ../twentyfourteen/inc/customizer.php:50
+msgid "Layout"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/slider.php:9 ../lavan/lib/meta-boxes.php:558
+#: ../twentyfourteen/inc/customizer.php:55
+msgid "Slider"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/slider.php:14
+msgid "$"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/slider.php:15
+msgid " USD"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr ""
+
+#: ../lavan/lib/meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/field.php:184
+msgid "+"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/field.php:201
+msgid "&#8211;"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../lavan/lib/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:61
+msgid "Sub header section which displays below menu bar"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:73
+msgid "Page Titlebar"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:74
+msgid "Header Slider"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:75
+msgid "Parallax Header Image"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:76
+msgid "None"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:83
+msgid "Custom Page Title"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:90
+msgid "Page Title Description"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:114
+msgid "Select Header Slider Type"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:118
+msgid "Fluid Slider"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:119
+msgid "Draggable Slider"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:120
+msgid "BX Slider"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:121
+msgid "Slider Plugin Shortcode"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:130 ../lavan/lib/meta-boxes.php:193
+msgid "Slider Post Type"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:135 ../lavan/lib/meta-boxes.php:198
+msgid "Portfolio"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:141 ../lavan/lib/meta-boxes.php:214
+#: ../lavan/lib/meta-boxes.php:279
+msgid "Select Kaya Slider Category"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:151 ../lavan/lib/meta-boxes.php:204
+msgid "Select Portfolio Category"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:160 ../lavan/lib/meta-boxes.php:223
+#: ../lavan/lib/meta-boxes.php:289
+msgid "Auto Play"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:164 ../lavan/lib/meta-boxes.php:227
+#: ../lavan/lib/meta-boxes.php:293 ../lavan/lib/meta-boxes.php:332
+msgid "True"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:165 ../lavan/lib/meta-boxes.php:228
+#: ../lavan/lib/meta-boxes.php:294 ../lavan/lib/meta-boxes.php:333
+msgid "False"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:172 ../lavan/lib/meta-boxes.php:235
+#: ../lavan/lib/meta-boxes.php:348
+msgid "Slider Items Order"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:176 ../lavan/lib/meta-boxes.php:239
+#: ../lavan/lib/meta-boxes.php:352
+msgid "Decending Order"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:184 ../lavan/lib/meta-boxes.php:263
+#: ../lavan/lib/meta-boxes.php:360
+msgid "Slider Items Limit"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:247
+msgid "Select Slide Items"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:251
+msgid "1 Item"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:252
+msgid "2 Items"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:253
+msgid "3 Items"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:254
+msgid "4 Items"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:255
+msgid "5 Items"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:270
+msgid "Slider Height"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:301
+msgid "Slide Transition"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:305
+msgid "Horizontal"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:306
+msgid "Vertical"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:307
+msgid "Fade"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:314
+msgid "Slide Easing Effect"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:321
+msgid "Slide Pause Time"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:328
+msgid " Auto Height"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:341
+msgid "Slider Height (px)<br><small>Ex:400-600</small>"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:380
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:387
+msgid "Parallax Bg Image"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:393
+msgid "Background Position "
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:397
+msgid "Fixed"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:398
+msgid "Scroll"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:403
+msgid "Image Height ( px )<br><small>Ex:400-600</small>"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:410
+msgid "Image Overlay Text "
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:481
+msgid "Portfolio General Options"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:486
+msgid "Custom Portfolio Item Title"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:494
+msgid "Portfolio Item External link to"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:501 ../lavan/lib/meta-boxes.php:845
+msgid "Open In New Window"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:508
+msgid "Related Posts"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:522
+msgid "Light Box Video Url"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:541
+msgid "Model Images / Video"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:547
+msgid "Model Images"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:554
+msgid "Images Display Format"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:559
+msgid "Gallery"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:560
+msgid "List Images"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:568
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:574
+msgid "Model Images / Video Alignment"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:580
+msgid "Align Left"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:581
+msgid "Align Right"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:582
+msgid "Align Center"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:686
+msgid "Video"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:692
+msgid "Add Iframe Video"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:704
+msgid "Blog Post Image Settings"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:711
+msgid "Disable Featured Image Stretch"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:725
+msgid "Gallery Format"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:731
+msgid "Post Format Gallery"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:738
+msgid "Gallery Slider"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:751
+msgid "Quote Format"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:757
+msgid "Quote"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:770
+msgid "Audio Format"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:776
+msgid "Audio Embed"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:790
+msgid "Link Format"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:796 ../lavan/lib/meta-boxes.php:881
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:811
+msgid "Slider Settings"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:816
+msgid "Slide Title Description"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:824
+msgid "Slide Text Color"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:831
+msgid "Disable Slide Title/Description"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:838
+msgid "Slide link"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:861
+msgid "Testimonial Settings"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:866
+msgid "Description"
+msgstr ""
+
+#: ../lavan/lib/meta-boxes.php:874
+msgid "Designation"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1083
+#: ../lavan/lib/plugin-activation.php:1091
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1088
+msgid "Private Repository"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1095
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1098
+msgid "Required"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1098
+msgid "Recommended"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1101
+msgid "Not Installed"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1103
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1273
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1289
+msgid "Plugin"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1290
+msgid "Source"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1291
+msgid "Type"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1292
+msgid "Status"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1310
+msgid "Install"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1311
+msgid "Activate"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1821
+msgid "Install package not available."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1822
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1823
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1824
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1825
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1826
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1837
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1947
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1948
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1948
+#: ../lavan/lib/plugin-activation.php:1957
+msgid "Show Details"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1948
+#: ../lavan/lib/plugin-activation.php:1957
+msgid "Hide Details"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1949
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1950
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1954
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1955
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1956
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1958
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:1959
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lavan/lib/plugin-activation.php:2050
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lavan/loop-portfolio.php:102 ../lavan/single.php:114
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:45
+#: ../twentytwelve/image.php:102
+msgid "Pages:"
+msgstr ""
+
+#: ../lavan/loop.php:6
+msgid "Read More"
+msgstr ""
+
+#: ../lavan/loop.php:25
+msgid "1"
+msgstr ""
+
+#: ../lavan/loop.php:25
+msgid "%"
+msgstr ""
+
+#: ../lavan/search.php:26 ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../lavan/searchform.php:2
+msgid "Search here..."
+msgstr "Search here ..."
+
+#: ../lavan/single.php:124 ../twentythirteen/author-bio.php:30
+#: ../twentytwelve/content.php:66
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:72
+#: ../lavan/woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-totals.php:21
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-totals.php:75
+msgid "Order Total"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cart.php:126
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr ""
+
+#: ../lavan/woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:45
+#: ../lavan/woocommerce/cart/shipping-calculator.php:51
+#: ../lavan/woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../lavan/woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: ../lavan/woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../lavan/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../lavan/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../lavan/woocommerce/loop/sale-flash.php:16
+#: ../lavan/woocommerce/single-product/product-image.php:17
+msgid "Sale!"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/rating.php:25
+#: ../lavan/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/related.php:48
+msgid "Related Products"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../lavan/woocommerce/single-product/up-sells.php:52
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/404.php:21 ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:34 ../twentyfourteen/comments.php:52
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:127 ../twentyfourteen/inc/widgets.php:172
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:27 ../twentythirteen/content-none.php:27
+#: ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:254
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:255
+msgid "Next"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:491 ../twentythirteen/functions.php:218
+#: ../twentytwelve/functions.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/header.php:52 ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:405
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#: ../twentyfourteen/inc/featured-content.php:406
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:54
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:99
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:104
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:428
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:50 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:51 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:58
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:85
+#: ../twentythirteen/functions.php:300 ../twentytwelve/functions.php:286
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:109
+#: ../twentythirteen/functions.php:322
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+#: ../twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+#: ../twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:62
+#: ../twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+#: ../twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+#: ../twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+#: ../twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+#: ../twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#. translators: used with More archives link
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26 ../twentytwelve/author.php:63
+#: ../twentytwelve/content.php:62
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:270 ../twentytwelve/functions.php:287
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:274 ../twentytwelve/functions.php:288
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+#: ../twentytwelve/functions.php:370 ../twentytwelve/functions.php:373
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:343 ../twentytwelve/functions.php:384
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:242
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:252
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254 ../twentytwelve/functions.php:264
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:262
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:328
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:349
+msgid "Reply"
+msgstr ""
+
+#: ../twentytwelve/functions.php:390
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:392
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:394
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""

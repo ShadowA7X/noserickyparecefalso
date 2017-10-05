@@ -1,0 +1,301 @@
+/*
+Theme Name: lavan
+Theme URI:http://themeforest.net/user/kayapati
+Description: <p>Innova Interior, Furniture and Home Decor WordPress CMS Theme</p>
+Author: Kayapati
+Author URI: http://themeforest.net/user/kayapati
+License: Kayapati
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+All files, unless otherwise stated, are released under the GNU General Public License
+Tags: white, two-columns, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style
+*/
+
+/* Middle Content Container full Width 
+----------------------------------------------------------------------------------------------------*/
+body{
+    direction: rtl;
+  unicode-bidi: embed;
+}
+ .header_top_left{
+    text-align: right;
+ }
+  .header_top_right{
+    text-align: left;
+  
+ }
+/* Header
+----------------------------------------------------------------------------------------------------*/
+#header_wrapper{
+    clear: both;
+    }
+
+.header_left_section{
+    float: right;
+
+}
+.header_right_section {
+    float: left;
+    text-align: left;
+}
+/* Footer Section
+------------------------------------------------------*/
+
+.footer_social_icons{
+    float:left;
+}
+.footer_social_icons .alignleft{
+    margin-bottom: 0px;
+}
+
+/* Social Icons */
+.footer_social_icons a{
+    float: right;
+    text-align: center;
+}
+  /* Video Bg */
+.single_img_parallex_inner_text{
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+#contact-form label {
+    float: right;
+}
+.contact_home{
+    float: right;
+    text-align: center;
+  }
+.scroll_top i{
+    text-align: center;
+}
+.gallery a img{
+    float: right; 
+}
+.gallery-caption{
+    text-align: center;
+}
+.image-boxes{
+    text-align: right!important;
+}
+.one_half{
+    float: left!important;
+}
+.alignleft{
+    float: right!important;
+}
+.alignright{
+    float: left!important;
+}
+ body, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+ abbr, address, code,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, a, acronym, td, slide_title{
+    direction: rtl;
+}
+.iconbox_left .description h3{
+    text-align: right!important;
+    padding-right: 15px;
+}
+.iconbox_left .description p{
+    text-align: right!important;
+    padding-right: 15px;
+}
+.iconbox_none{
+    text-align: right!important;
+}
+.iconbox_none .description h3{
+    margin-right: 0px!important;
+}
+.kaya-font-icon kaya-fontawesome{
+    text-align: center;
+}
+.kaya_title_left h3{
+    text-align: right!important;
+}
+.kaya_title_left p{
+    text-align: right!important;
+}
+.dropcap_left h3{
+    text-align: right!important;
+    padding-right: 15px;
+}
+.dropcap_left p{
+    text-align: right!important;
+    padding-right: 15px;
+}
+.dropcap_center p{
+text-align: center!important;
+}
+.bottom_section .container .social_icons {
+    float: right!important;
+}
+.bottom_section .container .one_half{
+    margin-right: 0px!important;
+    margin-left: 3.80%;
+    float: right!important;
+    text-align: right!important;
+}
+.image-boxes .description > h3{
+    text-align: right;
+}
+.image-boxes .description > p{
+    text-align: right;
+}
+.image-boxes .alignleft{
+    margin:0px 0px 20px 15px!important;
+}
+.image-boxes .description{
+    text-align: right!important;
+    }
+.image-boxes .aligncenter .description > h3{
+    text-align: center!important;
+}
+.image-boxes .aligncenter .description >p{
+    text-align: center!important;
+}
+.owl-pagination{
+    direction: ltr;
+}
+
+.owl-prev{
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+    color: #007aff;
+}
+.owl-next{
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    color: #007aff;
+}
+.owl-controls .owl-page.hide-page{
+    display: none;
+}
+
+.owl-controls .owl-page.hide-page.active{
+    display: inline-block;
+}
+.widget_container > h3, p{
+    text-align: right!important;
+}
+.widget_container{
+     text-align: right!important;
+}
+.widget_container .alignleft{
+    margin: 0px 0px 0px 20px!important;
+}
+.widget_container ul li{
+    text-align: right;
+}
+.image-boxes .aligncenter{
+    display: block!important;
+}
+.image-boxes .description{
+    padding-right: 20px!important;
+}
+.iconbox_center .description > p{
+    text-align: center!important;
+}
+.iconbox .iconbox_bg.alignnone .iconbox_iconbg_conatiner {
+    float: right!important;
+    margin-bottom: 20px;
+ }
+.iconbox_none .description{
+    clear: both;
+}
+#footer_bottom .one_half{
+    float: right!important;
+}
+dt {
+    float: right;
+}
+#singlepage_nav{
+    position: absolute!important;
+    left: 0!important;
+    margin-left: 0px!important;
+}
+.recent_blog_post .alignleft{
+    margin: 0px 0px 0px 20px;
+}
+.custom_title h3:before, .custom_title h2:before, .custom_title h1:before{
+    right: 0;
+}
+.team_description p{
+    text-align: center!important;
+}
+.testimonial_image_wrapper .alignleft{
+    float: left!important;
+}
+.testimonial_wrapper p{
+    text-align: center!important;
+}
+.bx-wrapper .bx-viewport{ 
+    direction: ltr; 
+}
+#sidebar h3:after{
+    right: 0!important;
+}
+.meta_desc span i{
+    margin-left: 8px;
+}
+.widget_container ul li{
+background-position:right 13px!important;
+padding-right:25px;
+}
+.widget_container ul li:first-child{
+    padding-top: 8px!important;
+}
+.portfolio_overlay p{
+    text-align: center!important;
+}
+.kaya_title_center p{
+    text-align: center!important;
+}
+.single .sub_header h2{
+    text-align:right;
+    float: right;
+}
+.alignleft{
+    margin: 0px 0px 15px 20px;
+}
+.alignright{
+    margin: 0px 20px 15px 0px;
+}
+.relatedpost_title > h2:after{
+    right:0;
+}
+#singlepage_nav{
+    z-index: 0!important;
+}
+.bx-wrapper .bx-loading{
+    z-index: 0;
+}
+#search_form button{
+    border-radius: 3px 0px 0px 3px;
+    margin-right:-4px;
+}
+#search_form input{
+     border-radius: 0px 3px 3px 0px;
+}
+.sub_header_wrapper h2, .sub_header_wrapper p{
+    text-align: right;
+}
+/*woocommerce*/
+.shop-product-details{
+    text-align: right;
+    float: right;
+}
+.shop-product-details .price{
+    text-align: right!important;
+}
+.woocommerce nav.woocommerce-pagination{
+    text-align: right;
+}
+.related.products > h2:after, .upsells.products > h2:after, #order_review_heading:after{
+    right:0;
+}
+/*end*/

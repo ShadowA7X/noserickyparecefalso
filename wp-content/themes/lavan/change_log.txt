@@ -1,0 +1,349 @@
+version 3.3.3
+====================
+-- Parallax Bg Image height issue fixed.
+-- Updated woocommerce files. 
+
+version 3.3.2
+====================
+-- Added metabox plugin by default.
+-- Parallax Bg Image uploading issue fixed.
+-- Default images missing in "One Click demo" issue fixed.
+-- Customizer panel remove issue fixed.
+-- Header Slider loader issue fixed.
+
+version 3.3.1
+====================
+-- Importing One click demo content issue fixed. 
+
+version 3.3.0
+====================
+- posts and pages metaboxes upload images issue fixed.
+- Meta boxes removed from theme and  added as a TGM Plugin
+
+version 3.2.9
+==========================
+- "kaya-lavan-page-widgets" plugin updation issue fixed.
+
+version 3.2.8
+==========================
+- Added New Enable post title link option in theme customizer > Portfolio Section >Portfolio Category Section.
+
+version 3.2.6
+==========================
+- Added Become a model page in "one click demo" content.
+- Used "Contact Form 7" plugin "Become a model" page.
+- Added Nav Buttons Navigation to Header Slider.
+- Added Dot Buttons Navigation to Header Slider.
+- Added an option to disable/enable the Header Slider arrow navigation.
+- Added an option to disable/enable the Header Slider dots navigation.
+- Added background color options to Arrow navigation.
+
+version 3.2.5
+==========================
+- Model search not working issue fixed.
+- Related posts default image issue fixed.
+- Footer navigation not setting in one click demo issue fixed.
+- yoast plugin compatibility.
+- Updated woocommerce files.
+
+version 3.2.4
+====================
+- upload logo not working issue fixed in theme customizer > Header Logo Settings.
+
+version 3.2.3
+====================
+- Added video to Header Slider, to know how to configure header slider.
+- Added Select Background Type option to Boxed Layout.
+- Added Upload Image option to Boxed Layout.
+- Added Background Repeat option to Boxed Layout. 
+- Added Background Attachment option to Boxed Layout.
+- Added video to know how to configure layout settings.
+- Added video to know how to configure Header section.
+- Added video to know how to configure Logo settings.
+- Added Select Header Logo Type option to Header Logo Settings.
+- Added Text Logo option to Logo Settings.
+- Added Text Logo Tag Line option to Logo Settings.
+- Added video to know how to configure Header Right section.
+- Added video to know how to configure Menu section.
+- Added video to know how to configure Page Title Bar Color settings.
+- Added Select Background Type to Page Title Bar Color Settings.
+- Added Title Font Size, Font Weight, Font Style and Font Family to Page Title bar Title.
+- Added Description Font Size, Font Weight, Font Style and Font Family to Page Title bar Description.
+- Added video to know how to configure Page Footer section.
+- Added video to know how to configure Most Footer Bottom settings.
+- Added Select Most Footer Style option to Most Footer Bottom Settings.
+- Added Left Content and Right Menu option to Most Footer Bottom Settings. 
+- Added Right Content and Left Menu option to Most Footer Bottom Settings. 
+- Added Left Content and Right Content option to Most Footer Bottom Settings. 
+- Added Content and Menu in Center option to Most Footer Bottom Settings. 
+- Added None option to Most Footer Bottom Settings. 
+- Added video to know how to configure site origin page builder settings.
+- Added video to know how to configure Import One Click Demo Content.
+- Added video to know how to Activate Theme and Install Plugins.
+
+version 3.2.2
+====================
+- Added an option to disable lightbox Social Icons from Theme Customize.
+- Added an option to disable lightbox Thumbnails from Theme Customize.
+- Added an option to disable lightbox Title from Theme Customize.
+- Related posts issue fixed.
+- Added Dragging fields option to Model Options.
+- Updated Model Options.
+- Added an option to disable search icon from Theme Customize.
+- Added an option to Upload Social Icons from Theme Customize.
+- Added Social Icon Link option from Theme Customize. 
+- Change Boxed Layout Mode options style from Theme Customize.   
+- Added Mobile Menu "Go to" Text option from Theme Customize.
+- Added WooCommerce Plugin by Default.
+- Added Page Footer option from Theme Customize.
+- Added "One Click Demo Content" option from CPT.
+- Added UI Slider to increase and decrease "Font Sizes" from Theme Customize.
+- Added an option to disable Woocommerce login info text from Theme Customize.
+- Related post thumbnail height issue fixed.
+- Portfolio Category thumbnail height issue fixed.
+- Added an option to select footer type from Theme Customize.
+- Removed Menus tab from Theme Customize.
+- Added an option to Header Top Border Color from Theme Customize.     
+
+version 3.2.1
+====================
+- Enhanced Theme Customize Style.
+
+version 3.2
+====================
+- Updated Woocommerce files.
+- Text area width issue fixed.
+- Added RTL css.
+- Remove Active Theme from Theme Customizr.
+- Remove widgets panel from Theme Customizr.
+- Updated Xml Demo Content. 
+- Added Default google font for Boby.
+- Added Default google font for Menu.
+- Added Default google font for Headings.
+
+version 3.1
+=====================
+- Related Posts Responsive Issue Fixed.
+- Footer Responsive  Issue Fixed.
+
+version 3.0
+====================
+- Added a New Model details options settings.( Now you can create and delete Model   details dynamically)
+- Updated Font Family Section In ThemeCustemizr.
+- Header Main Slider Responsive Issue Fixed.
+- Portfolio Slider Responsive Issue Fixed.
+- Mobile NavMenu Alignment Issue Fixed.
+-Updated PrettyPhoto JS file.
+
+version 3.1.6
+- Related Posts Responsive Issue Fixed.
+- Footer Responsive  Issue Fixed.
+
+version 2.9.6
+====================
+-Updated PrettyPhoto JS file.
+
+version 2.9.5
+====================
+-Added Product Rating for woocommerce page.
+
+version 2.9.4
+====================
+- All Page Builder Issues are fixed which are generated By Theme
+
+version 2.9.3
+====================
+- Fixed bug, Portfolio tags issue
+- Updated TGM plugin activation code
+
+
+
+version 2.9.2
+====================
+- Fixed bug, Stop on mouse over for main slider
+- Updated Demo xml file
+
+version 2.9.1
+====================
+- Custom CSS issue fixed.
+
+version 2.9
+====================
+- Modified complete "Theme Customizer".	 
+- Shifted Menu section to header section panel in customizr
+- Shifted accent color section in to Global Settings panel in customizr
+- Removed single Portfolio images/videos panel, now you can use page builder
+- Added an option to disable old portfolio data in customize > Global settings
+- Added an option to disable portfolio single page buttons in customize > Portfolio Section
+- Updated woocommerce files
+
+version 2.8.4
+============================
+
+	- Fixed Bug : The fluid slider issue fixed.
+
+version 2.8.3
+============================
+
+	- Fixed Bug : Theme Customizer errors fixed.
+
+
+version 2.8.2
+============================
+
+	- Fixed Bug : Woocommerce issues fixed.
+
+	- Fixed Bug : Languague translation issues fixed.
+
+	- Fixed Bug : Slide Text Color issue fixed under Slider Settings.
+
+	- Fixed Bug : Custom Portfolio Item Title, Portfolio Item External link to and
+
+        - Open In New Window issues fixed under Portfolio General Options.
+
+
+version 2.8.1
+============================
+
+	- Fixed Bug : Kaya slider post Slide link fixed.
+
+
+version 2.8
+============================
+
+	- Added Blog Single Page Sidebar under Blog Page Section in Theme Customize.
+
+	- Remove Sidebar option from Portfolio Posts.
+ 
+	- Added Disable Post Link Icon under Portfolio Category Settings in Theme
+ 
+          Customize.
+
+version 2.7
+============================
+
+	- Woocommerce pages re-designed from scratch.
+
+	- Image lightbox changed from fancy box to pretty box.
+
+version 2.6.3
+============================
+
+	- Fixed Bug : Portfolio single page slider jumping issue fixed.
+
+
+version 2.6.2
+============================
+
+	- Fixed Bug : gallery thumb small size fixed.
+
+version 2.6.1
+============================
+
+	- Fixed Bug : Dropcap border line in footer issue fixed.
+
+	- Fixed Bug : Tab Items CPT Category Display issue fixed.
+
+
+version 2.6
+============================
+
+	- Added New Feature : Complete theme options removed and added all options in theme customizer.
+
+	- Added New Feature : Portfolio Video Selection options removed and added embed code text area.
+
+	- Added New Feature : Show/hide Header Shop cart item links added in customizer.
+
+	- Added New Feature : Portfolio Related Post height control added in customizer.
+
+	- Added New Feature : Portfolio Category page layout options added in customizer, like thumbnail height, Title BG color, text color etc.
+
+	- Added New Feature : Added Sidebar Generator in "Appearance"
+	
+	- Fixed Bug: Google font support for Latin & Cyrillic.
+
+	- Fixed Bug: Default font as a "Google font" removed and added System font Arial.
+
+	- Added New Feature:  Oder Attribute for Toggle Tabs, Kaya Slider
+
+
+version 2.5.3
+============================
+	
+	- Added New Feature : Portfolio slug name can be controlled from theme option settings.
+	- Fixed Bug: Tab Items Naming structur finetuned.
+	- Fixed Bug: Portfolio & Blog sinlge page slider jumping issue fixed.
+
+version 2.5.2
+============================
+	
+	- Fixed Bug: Pages title issue fixed for archive, author, category and tags pages.
+	- Fixed Bug: Portfolio single page slider css styl fixed.
+
+version 2.5.1
+============================
+	
+	- Fixed Bug: Most footer bottom section short-code support issue
+
+	- Fixed Bug: Portfolio sinlge page project images order issue fixed.
+
+
+version 2.5
+============================
+	
+	- Fixed Bug: Header Right section short-code support issue
+	- Fixed Bug: Metabox error when use php version lower than 5.3
+
+version 2.4
+============================
+	
+	- Fixed Bug: Text disappear in chrome issue fixed.
+	
+	- Added New Feature: Add new widgets, Tabs, Toggle and Accordion
+	
+	- Added New Feature: Add new widgets info boxes
+
+
+version 2.3.4
+============================
+	
+	- Fixed Bug: Portfolio full width single page blank issue fixed.
+
+
+version 2.3.3
+============================
+	
+	- Fixed Bug: WooCommerce Product category title display error
+	- Fixed Bug: Footer menu styling issue fixed.
+	- Fixed Bug: WooCommerce List items bullet issue fixed
+
+version 2.3.1
+============================
+	
+	- Fixed Bug: Adding images without page refresh
+	- Fixed Bug: wp_style_add_data() issue fixed
+
+version 2.3
+============================
+	
+	- New Feature : WooCommerce Support.
+
+
+version 2.2
+============================
+	
+	- New Feature : Added an option to add menu bar background color
+
+	- New Feature : Added an option to add footer top and bottom background color
+	
+
+
+version 2.1
+============================
+	
+	- Fixed Bug: image box widget when image width is more than div
+
+	- Fixed Bug: list items in footer widget container.
+	
+	- Fixed Bug: few minor css issue fixed and fine tuned
+
